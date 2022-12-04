@@ -1,1 +1,1 @@
-branch 2, first commit
+merged from branch 2 with branch 1
